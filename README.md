@@ -32,3 +32,6 @@ List All Connected Bluetooth Devices
 
 Network Share
 Configure and Remove a Networkshare
+
+Printers
+Retrieves list of Printers, Printer Properties, Printer Port, Information for a specific Printer and Printer Driver Name

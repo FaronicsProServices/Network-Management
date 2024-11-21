@@ -26,3 +26,6 @@ Displays detailed IP configuration data for network adapters.
 
 List Network Adapter Properties
 Retrieves the properties of all network adapters.
+
+Bluetooth
+List All Connected Bluetooth Devices

@@ -29,3 +29,6 @@ Retrieves the properties of all network adapters.
 
 Bluetooth
 List All Connected Bluetooth Devices
+
+Network Share
+Configure and Remove a Networkshare

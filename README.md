@@ -1,37 +1,37 @@
 # Network-Management
 Scripts for network configuration and troubleshooting.
 Subcategories:
-DHCP Management
-Find DHCP Enabled Adapters
+DHCP Management:
+Find DHCP Enabled Adapters:
 Identifies network adapters that are configured for DHCP.
 
-Retrieve IP-Enabled Adapters
+Retrieve IP-Enabled Adapters:
 Retrieves a list of all network adapters that have IP enabled.
 
-Fetch DHCP Properties
+Fetch DHCP Properties:
 Fetches the properties of DHCP-enabled adapters.
 
-Enable DHCP on All Network Adapters
+Enable DHCP on All Network Adapters:
 Enables DHCP on all network adapters.
 
-Release/Renew DHCP Lease (All Adapters)
+Release/Renew DHCP Lease (All Adapters):
 Releases or renews DHCP leases for all network adapters.
 
-IP and Adapter Configuration
-List IP Addresses
+IP and Adapter Configuration:
+List IP Addresses:
 Lists all IP addresses assigned to the system.
 
-List IP Configuration Data
+List IP Configuration Data:
 Displays detailed IP configuration data for network adapters.
 
-List Network Adapter Properties
+List Network Adapter Properties:
 Retrieves the properties of all network adapters.
 
-Bluetooth
+Bluetooth:
 List All Connected Bluetooth Devices
 
-Network Share
+Network Share:
 Configure and Remove a Networkshare
 
-Printers
+Printers:
 Retrieves list of Printers, Printer Properties, Printer Port, Information for a specific Printer and Printer Driver Name

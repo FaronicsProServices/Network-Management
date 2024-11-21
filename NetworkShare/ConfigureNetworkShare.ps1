@@ -6,13 +6,4 @@ Name = 'Enter the folder name'
 Type = [uint32]0 #Disk Drive  
 MaximumAllowed = [uint32]25  
 Description = 'configure network share with the temp folder'  
-}  
-
-# For example:
-Invoke-CimMethod -ClassName Win32_Share -MethodName Create -Arguments @{     
-Path = 'C:\TestNetworkShare'  
-Name = 'TestNetworkShare'  
-Type = [uint32]0 #Disk Drive  
-MaximumAllowed = [uint32]25  
-Description = 'configure network share with the temp folder'  
-}  
+}   
